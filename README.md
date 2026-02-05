@@ -242,14 +242,11 @@ After extensive grid searches and evaluation, it was found that:
 
 ## 🏆 Results on Test set (Open Competition Leaderboard)
 
-The final strategy achieved **10th position** out of 300+ participants.
+The final strategy achieved **57th position** out of 1275 participants.
 * **Final Competition Metric (wS-wMAPE):** `3.684`
 * **Poverty Rates Weighted MAPE:** `0.910`
   
-<img width="1253" height="883" alt="Στιγμιότυπο οθόνης (256)" src="https://github.com/user-attachments/assets/2940ced3-265b-4bf6-880e-e816ec20e233" />
 
-
-<br>
 
 The final output is the zip folder **`submission.zip`**, which is our official submission to the competition.
 
@@ -293,4 +290,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 **Project Title:** World Bank Poverty Prediction Challenge  
-**Final Competition Rank:** 10th Place 🏆
+**Final Competition Rank:** 57th Place 🏆 out of 1275 participants
